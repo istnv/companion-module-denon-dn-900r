@@ -694,7 +694,7 @@ instance.prototype.actions = function (system) {
 					type: 'dropdown',
 					id: 'sel_cmd',
 					label: 'Command',
-					default: '2353',
+					default: '2355',
 					choices: self.CHOICES_RECORD_ACTIONS
 				},
 			]
