@@ -13,3 +13,10 @@ The rs232 only models (DN-500R, DN-F450R, DN-F650R) require an Ethernet to RS232
 *
 * Minimal Record / Play control
 * Feedback for some of the commands
+
+**V1.0.1**
+* fix: internal `rgb` call to `self.rgb`
+
+**V1.0.2**
+* fix: typo in Record command
+
